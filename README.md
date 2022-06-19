@@ -21,15 +21,6 @@ React Dashboard Template
   - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Usage](#usage)
-    - [Cookiecutter template](#cookiecutter-template)
-    - [Manual setup](#manual-setup)
-    - [Variables reference](#variables-reference)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [Support](#support)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 </details>
 
@@ -56,6 +47,12 @@ Key features of **React Dashboard Template**:
 
 ### Built With
 
-- [React JS](https://reactjs.org//)
-- [Material UI](https://mui.com/)
-- [React Router V6](https://reactrouter.com/)
+- <a href="https://reactjs.org//" target="_blank">React JS</a>
+- <a href="https://mui.com/" target="_blank">Material UI</a>
+- <a href="https://reactrouter.com/" target="_blank">React Router V6</a>
+
+## Getting Started
+
+### Prerequisites
+
+The recommended method to install **React Dashboard Template** is by using [Cookiecutter](https://github.com/cookiecutter/cookiecutter). For manual install please refer to [manual setup section](#manual-setup).
