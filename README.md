@@ -1,5 +1,5 @@
-# Project Title
-React Dashboard Template
-
-## Demo link:
-Access to the demo https://codesandbox.io/s/eifqpe
+<h1 align="center">
+  <a>
+    <img src="/docs/images/material-ui.svg" alt="Logo" width="125" height="125">
+  </a>
+</h1>
