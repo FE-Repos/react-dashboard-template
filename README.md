@@ -21,6 +21,12 @@ React Dashboard Template
   - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [Support](#support)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 </details>
 
@@ -47,12 +53,76 @@ Key features of **React Dashboard Template**:
 
 ### Built With
 
-- <a href="https://reactjs.org//" target="_blank">React JS</a>
-- <a href="https://mui.com/" target="_blank">Material UI</a>
-- <a href="https://reactrouter.com/" target="_blank">React Router V6</a>
+- [React JS](https://reactjs.org//)
+- [Material UI](https://mui.com/)
+- [React Router V6](https://reactrouter.com/)
 
 ## Getting Started
 
 ### Prerequisites
 
-The recommended method to install **React Dashboard Template** is by using [Cookiecutter](https://github.com/cookiecutter/cookiecutter). For manual install please refer to [manual setup section](#manual-setup).
+- Git
+- Node JS
+- React JS
+- Material UI
+- React Router V6
+### Usage
+
+Once the repository has been cloned, use the following command to start the project.
+
+```sh
+npm start
+```
+
+## Roadmap
+
+See the [open issues](https://github.com/dec0dOS/amazing-github-template/issues) for a list of proposed features (and known issues).
+
+- [Top Feature Requests](https://github.com/FE-Repos/react-dashboard-template/discussions/3) (Add your votes using the 👍 reaction)
+- [Top Bugs](https://github.com/FE-Repos/react-dashboard-template/discussions/4) (Add your votes using the 👍 reaction)
+- [Newest Bugs](https://github.com/FE-Repos/react-dashboard-template/discussions/5)
+
+## Contributing
+
+First off, thanks for taking the time to contribute! Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
+
+Please try to create bug reports that are:
+
+- _Reproducible._ Include steps to reproduce the problem.
+- _Specific._ Include as much detail as possible: which version, what environment, etc.
+- _Unique._ Do not duplicate existing opened issues.
+- _Scoped to a Single Bug._ One bug per report.
+
+Please adhere to this project's [code of conduct](docs/CODE_OF_CONDUCT.md).
+
+## Support
+
+Reach out to the maintainer at one of the following places:
+
+- [GitHub discussions](https://github.com/FE-Repos/react-dashboard-template/discussions)
+
+## License
+
+This project is licensed under the **MIT license**. Feel free to edit and distribute this template as you like.
+
+See [LICENSE](LICENSE) for more information.
+
+## Acknowledgements
+
+Thanks to:
+- https://github.com/GaboChirico
+- https://github.com/gcatuogno
+
+Thanks for these resources:
+- https://github.com/dec0dOS/amazing-github-template
+- https://reactjs.org/
+- https://mui.com/
+- https://reactrouter.com/
+
+
+
+
+
+
+
+
