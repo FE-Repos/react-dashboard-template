@@ -20,6 +20,7 @@ React Dashboard Template
 - [About](#about)
   - [Built With](#built-with)
 - [Getting Started](#getting-started)
+  - [Demo](#demo)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
 - [Roadmap](#roadmap)
@@ -58,6 +59,9 @@ Key features of **React Dashboard Template**:
 - [React Router V6](https://reactrouter.com/)
 
 ## Getting Started
+
+### Demo
+-[CodeSandbox](https://codesandbox.io/s/github/FE-Repos/react-dashboard-template)
 
 ### Prerequisites
 
