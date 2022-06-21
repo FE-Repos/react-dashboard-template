@@ -12,7 +12,19 @@ React Dashboard Template
   <a>
     <img src="/docs/images/react-router.svg" alt="Logo" width="125" height="125" hspace="20">
   </a>
+
+![npm](https://img.shields.io/badge/npm-v8.8.0-green)
+![react](https://img.shields.io/badge/react-v18.1.0-blue)
+![mui](https://img.shields.io/badge/mui-v5.8.2-blue)
+![react](https://img.shields.io/badge/react--router--dom-v6.3.0-red)
 </h2>
+
+<div align="center">
+
+![license](https://img.shields.io/badge/license-MIT-green)
+
+</div>
+
 
 <details open="open">
 <summary>Table of Contents</summary>
