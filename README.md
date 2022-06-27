@@ -87,6 +87,7 @@ Key features of **React Dashboard Template**:
 Once the repository has been cloned, use the following command to start the project.
 
 ```sh
+npm install
 npm start
 ```
 
